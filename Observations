@@ -1,0 +1,25 @@
+observations/attention.md
+
+OBSERVATIONS
+> Given below are several situations occuring in different  
+environments. Each situation consists of what happened, what 
+assumption failed, and what can be noted down. The aim of 
+this note is to derive information on relations, problems, 
+and other concepts that can help solve the issue of "Where do systems
+break?".
+
+Situation:
+During studying time, the parents (system) expected their son 
+(person A) to study.
+
+What happened:
+Their son watched movies instead.
+
+Assumption that failed: 
+The system assumed sustained attention for a period of time from 
+person A.
+
+Notes:
+This will be observed repeatedly in different contexts.
+The system has no feedback loop, no contingency, and no ownership
+of attention.
